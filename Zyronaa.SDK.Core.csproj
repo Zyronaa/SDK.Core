@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net471</TargetFramework>
     <RootNamespace>Zyronaa.SDK.Core</RootNamespace>
-    <AssemblyName>Zyronaa.SDK.Core.net</AssemblyName>
+    <AssemblyName>Zyronaa.SDK.Core</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
